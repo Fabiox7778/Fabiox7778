@@ -10,13 +10,9 @@
 ### 🚀 Skills
 
 **Linguagens**
-<div style="display: flex; gap: 10px;">
-  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,nodejs)](https://skillicons.dev)
 
 **Frameworks & Ferramentas**
-<div style="display: flex; gap: 10px;">
 
-  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
