@@ -30,23 +30,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,postman,postgres)](https://skillicons.dev)
 
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabiox7778&theme=tokyonight&hide_border=false&border_radius=10" alt="Fabio Henrique GitHub Profile Summary"/>
-</div>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabiox7778&theme=tokyonight&hide_border=false&border_radius=10" />
-</div>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabiox7778&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" />
-</div>
-<br/>
-
 <hr/>
 
 ### 📬 Conecte-se comigo!
